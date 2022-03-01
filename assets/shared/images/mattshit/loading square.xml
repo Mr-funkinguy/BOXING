@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loading square.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Loading0000" x="0" y="0" width="152" height="153"/>
+	<SubTexture name="Loading0001" x="0" y="0" width="152" height="153"/>
+	<SubTexture name="Loading0002" x="152" y="0" width="152" height="153"/>
+	<SubTexture name="Loading0003" x="152" y="0" width="152" height="153"/>
+	<SubTexture name="Loading0004" x="304" y="0" width="152" height="153"/>
+	<SubTexture name="Loading0005" x="304" y="0" width="152" height="153"/>
+	<SubTexture name="Loading0006" x="0" y="153" width="152" height="153"/>
+	<SubTexture name="Loading0007" x="0" y="153" width="152" height="153"/>
+	<SubTexture name="Loading0008" x="152" y="153" width="152" height="153"/>
+	<SubTexture name="Loading0009" x="152" y="153" width="152" height="153"/>
+	<SubTexture name="Loading0010" x="304" y="153" width="152" height="153"/>
+	<SubTexture name="Loading0011" x="304" y="153" width="152" height="153"/>
+	<SubTexture name="Loading0012" x="0" y="306" width="152" height="153"/>
+	<SubTexture name="Loading0013" x="0" y="306" width="152" height="153"/>
+	<SubTexture name="Loading0014" x="152" y="306" width="152" height="153"/>
+	<SubTexture name="Loading0015" x="152" y="306" width="152" height="153"/>
+</TextureAtlas>

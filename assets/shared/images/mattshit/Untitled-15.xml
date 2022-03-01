@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-15.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loading screen gui0000" x="0" y="0" width="1324" height="917"/>
+	<SubTexture name="loading screen gui0001" x="1324" y="0" width="1324" height="830" frameX="0" frameY="0" frameWidth="1324" frameHeight="917"/>
+	<SubTexture name="loading screen gui0002" x="2648" y="0" width="1324" height="866" frameX="0" frameY="0" frameWidth="1324" frameHeight="917"/>
+</TextureAtlas>

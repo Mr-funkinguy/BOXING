@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pie.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="00000" x="0" y="0" width="220" height="220"/>
+	<SubTexture name="0Dmg0000" x="220" y="0" width="220" height="220" frameX="-84" frameY="-132" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0001" x="220" y="0" width="220" height="220" frameX="-84" frameY="-132" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0002" x="220" y="0" width="220" height="220" frameX="-84" frameY="-132" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0003" x="220" y="0" width="220" height="220" frameX="-84" frameY="-132" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0004" x="440" y="0" width="218" height="230" frameX="-87" frameY="-82" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0005" x="658" y="0" width="284" height="293" frameX="-54" frameY="-51" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0006" x="942" y="0" width="324" height="395" frameX="0" frameY="0" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0007" x="1266" y="0" width="0" height="0" frameX="-87" frameY="-135" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0008" x="1266" y="0" width="0" height="0" frameX="-87" frameY="-135" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="0Dmg0009" x="1266" y="0" width="0" height="0" frameX="-87" frameY="-135" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="1230000" x="1266" y="0" width="220" height="220"/>
+	<SubTexture name="100000" x="1486" y="0" width="220" height="220"/>
+	<SubTexture name="10Dmg0000" x="1486" y="0" width="220" height="220"/>
+	<SubTexture name="10Dmg0001" x="1486" y="0" width="220" height="220"/>
+	<SubTexture name="10Dmg0002" x="660" y="615" width="220" height="220"/>
+	<SubTexture name="10Dmg0003" x="660" y="615" width="220" height="220"/>
+	<SubTexture name="110000" x="1706" y="0" width="220" height="220"/>
+	<SubTexture name="11Dmg0000" x="1706" y="0" width="220" height="220"/>
+	<SubTexture name="11Dmg0001" x="1706" y="0" width="220" height="220"/>
+	<SubTexture name="11Dmg0002" x="0" y="395" width="220" height="220"/>
+	<SubTexture name="11Dmg0003" x="0" y="395" width="220" height="220"/>
+	<SubTexture name="120000" x="220" y="395" width="220" height="220"/>
+	<SubTexture name="12Dmg0000" x="220" y="395" width="220" height="220"/>
+	<SubTexture name="12Dmg0001" x="220" y="395" width="220" height="220"/>
+	<SubTexture name="12Dmg0002" x="1706" y="0" width="220" height="220"/>
+	<SubTexture name="12Dmg0003" x="1706" y="0" width="220" height="220"/>
+	<SubTexture name="123Dmg0000" x="1266" y="0" width="220" height="220"/>
+	<SubTexture name="123Dmg0001" x="1266" y="0" width="220" height="220"/>
+	<SubTexture name="123Dmg0002" x="0" y="0" width="220" height="220"/>
+	<SubTexture name="123Dmg0003" x="0" y="0" width="220" height="220"/>
+	<SubTexture name="20000" x="440" y="395" width="220" height="220"/>
+	<SubTexture name="2Dmg0000" x="440" y="395" width="220" height="220"/>
+	<SubTexture name="2Dmg0001" x="440" y="395" width="220" height="220"/>
+	<SubTexture name="2Dmg0002" x="1266" y="0" width="220" height="220"/>
+	<SubTexture name="2Dmg0003" x="1266" y="0" width="220" height="220"/>
+	<SubTexture name="30000" x="660" y="395" width="220" height="220"/>
+	<SubTexture name="3Dmg0000" x="660" y="395" width="220" height="220"/>
+	<SubTexture name="3Dmg0001" x="660" y="395" width="220" height="220"/>
+	<SubTexture name="3Dmg0002" x="880" y="395" width="220" height="220"/>
+	<SubTexture name="3Dmg0003" x="880" y="395" width="220" height="220"/>
+	<SubTexture name="40000" x="1100" y="395" width="220" height="220"/>
+	<SubTexture name="4Dmg0000" x="1100" y="395" width="220" height="220"/>
+	<SubTexture name="4Dmg0001" x="1100" y="395" width="220" height="220"/>
+	<SubTexture name="4Dmg0002" x="660" y="395" width="220" height="220"/>
+	<SubTexture name="4Dmg0003" x="660" y="395" width="220" height="220"/>
+	<SubTexture name="50000" x="1320" y="395" width="220" height="220"/>
+	<SubTexture name="5Dmg0000" x="1320" y="395" width="220" height="220"/>
+	<SubTexture name="5Dmg0001" x="1320" y="395" width="220" height="220"/>
+	<SubTexture name="5Dmg0002" x="1100" y="395" width="220" height="220"/>
+	<SubTexture name="5Dmg0003" x="1100" y="395" width="220" height="220"/>
+	<SubTexture name="60000" x="1540" y="395" width="220" height="220"/>
+	<SubTexture name="6Dmg0000" x="1540" y="395" width="220" height="220"/>
+	<SubTexture name="6Dmg0001" x="1540" y="395" width="220" height="220"/>
+	<SubTexture name="6Dmg0002" x="1540" y="395" width="220" height="220"/>
+	<SubTexture name="6Dmg0003" x="1760" y="395" width="220" height="220"/>
+	<SubTexture name="70000" x="0" y="615" width="220" height="220"/>
+	<SubTexture name="7Dmg0000" x="0" y="615" width="220" height="220"/>
+	<SubTexture name="7Dmg0001" x="0" y="615" width="220" height="220"/>
+	<SubTexture name="7Dmg0002" x="1540" y="395" width="220" height="220"/>
+	<SubTexture name="7Dmg0003" x="1540" y="395" width="220" height="220"/>
+	<SubTexture name="80000" x="220" y="615" width="220" height="220"/>
+	<SubTexture name="8Dmg0000" x="220" y="615" width="220" height="220"/>
+	<SubTexture name="8Dmg0001" x="220" y="615" width="220" height="220"/>
+	<SubTexture name="8Dmg0002" x="440" y="615" width="220" height="220"/>
+	<SubTexture name="8Dmg0003" x="440" y="615" width="220" height="220"/>
+	<SubTexture name="90000" x="660" y="615" width="220" height="220"/>
+	<SubTexture name="9Dmg0000" x="660" y="615" width="220" height="220"/>
+	<SubTexture name="9Dmg0001" x="660" y="615" width="220" height="220"/>
+	<SubTexture name="9Dmg0002" x="880" y="615" width="220" height="220"/>
+	<SubTexture name="9Dmg0003" x="880" y="615" width="220" height="220"/>
+</TextureAtlas>
